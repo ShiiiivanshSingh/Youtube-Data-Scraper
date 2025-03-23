@@ -83,19 +83,13 @@ pip install selenium pandas beautifulsoup4 requests webdriver-manager
 python scraper.py
 ```
 
-## 💡 Extraction Modes
+## 💡 Extraction 
 
-### Selenium Mode (Recommended)
 - Opens a Chrome browser window to load and interact with YouTube
 - More reliable for modern YouTube pages and Shorts
 - Handles dynamic content loading and scrolling automatically
 - Requires Chrome to be installed on your system
 
-### Requests Mode
-- Headless operation (no visible browser window)
-- Faster execution but may be less reliable for some videos
-- Uses multiple strategies to attempt extraction
-- Ideal for basic extraction or batch processing
 
 ## 🔍 Troubleshooting Tips
 
