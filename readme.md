@@ -68,7 +68,8 @@ Welcome to YouTube Data Scraper! This tool extracts comments from any YouTube vi
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/youtube-data-scraper.git
+git clone https://github.com/ShiiiivanshSingh/Youtube-Data-Scraper
+
 cd youtube-data-scraper
 ```
 
