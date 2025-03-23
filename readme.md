@@ -5,6 +5,10 @@
   <p>A powerful tool for extracting comments and data from YouTube videos and Shorts, providing valuable insights for content creators, marketers, and researchers.</p>
   
   <img src="https://img.shields.io/badge/YouTube-Data_Scraper-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Data Scraper">
+
+
+ <a href="#-getting-started"> <img src="https://img.shields.io/badge/🔧%20How%20to%20Install-4285F4?style=for-the-badge" alt="How to Install"></a>
+
   
 </div>
 
@@ -50,8 +54,7 @@ Welcome to YouTube Data Scraper! This tool extracts comments from any YouTube vi
 
 ## 🚀 Getting Started
 
-  <a href="#-getting-started"><img src="https://img.shields.io/badge/🔧%20How%20to%20Install-808080?style=for-the-badge" alt="How to Install"></a>
-  
+
 ### Prerequisites
 - Python 3.7+ installed
 - Chrome browser (for Selenium mode)
