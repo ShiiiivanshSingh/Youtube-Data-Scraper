@@ -16,11 +16,15 @@ from selenium.common.exceptions import TimeoutException, NoSuchElementException
 
 # How to use:
 
-# 1. Import this module
+# 1. Import the modules
 # 2. Call extract_comments() with:
 #    - video_url: YouTube URL (regular or Shorts)
 #    - max_comments: Number of comments to extract (default 100)
 #    - max_scrolls: Number of scroll attempts (default 10)
+
+
+
+
 
 
 # Author: Shivansh Pratap Singh (CSE)
@@ -35,14 +39,29 @@ from selenium.common.exceptions import TimeoutException, NoSuchElementException
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 def setup_driver():
     options = Options()
     
     # u can uncomment this line to run without opening a browser window
     # options.add_argument("--headless=new")
-    options.add_argument("--window-size=1920,1080")
+   
+
+
+
+ options.add_argument("--window-size=1920,1080")
     
-    # These settings help avoid detection as a bot as youtube is good at detecting bots lmao
+    # these settings help avoid detection as a bot as youtube is good at detecting bots 
     options.add_argument("--disable-blink-features=AutomationControlled")
     options.add_experimental_option("excludeSwitches", ["enable-automation"])
     options.add_experimental_option("useAutomationExtension", False)
