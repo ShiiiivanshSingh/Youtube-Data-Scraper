@@ -43,6 +43,11 @@ Welcome to YouTube Data Scraper! This tool extracts comments from any YouTube vi
 5. Wait while the tool extracts the comments for you
 6. Find your results in the automatically generated CSV file
 
+## ✨ Screenshot
+![image](https://github.com/user-attachments/assets/b7dabb25-3ae5-4b9a-bea4-d63c96deb732)
+
+
+
 ## 🔧 Technologies Used
 
 <div align="center">
